@@ -1,0 +1,1239 @@
+ID   AL123456   standard; circular DNA; CON; 4411532 BP.
+XX
+DT   13-MAY-2009
+XX
+DE   Mycobacterium tuberculosis H37Rv complete genome.
+XX
+AC   AL123456;
+XX
+SV   AL123456.2  GI:41353971
+XX
+XX
+KW   complete genome.
+XX
+OS   Mycobacterium tuberculosis H37Rv
+OC   Mycobacterium tuberculosis H37Rv
+OC   Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales;
+OC   Corynebacterineae; Mycobacteriaceae; Mycobacterium; Mycobacterium
+OC   tuberculosis complex.
+XX
+RN   [1]
+RA   Cole,S.T., Brosch,R., Parkhill,J., Garnier,T., Churcher,C.,
+RA   Harris,D., Gordon,S.V., Eiglmeier,K., Gas,S., Barry,C.E. III,
+RA   Tekaia,F., Badcock,K., Basham,D., Brown,D., Chillingworth,T.,
+RA   Connor,R., Davies,R., Devlin,K., Feltwell,T., Gentles,S.,
+RA   Hamlin,N., Holroyd,S., Hornsby,T., Jagels,K., Krogh,A., McLean,J.,
+RA   Moule,S., Murphy,L., Oliver,K., Osborne,J., Quail,M.A.,
+RA   Rajandream,M.A., Rogers,J., Rutter,S., Seeger,K., Skelton,J.,
+RA   Squares,R., Squares,S., Sulston,J.E., Taylor,K., Whitehead,S. and
+RA   Barrell,B.G.
+RT   "Deciphering the biology of Mycobacterium tuberculosis from the
+RT   complete genome sequence";
+RL   Nature 393 (6685), 537-544 (1998)
+XX
+RN   [2]
+RA   Camus,J.C., Pryor,M.J., Medigue,C. and Cole,S.T.
+RT   "Re-annotation of the genome sequence of Mycobacterium tuberculosis
+RT   H37Rv";
+RL   Microbiology (Reading, Engl.) 148 (PT 10), 2967-2973 (2002)
+XX
+RN   [3]
+RP   1-4411529
+RA   Parkhill,J.
+RT   "Direct Submission";
+RL   Submitted (11-JUN-1998) Submitted on behalf of the Mycobacterium
+RL   tuberculosis sequencing and mapping teams, Sanger Centre, Wellcome
+RL   Trust Genome Campus, Hinxton, Cambridge CB10 1SA Unite de Genetique
+RL   Moleculaire Bacterienne, Institut Pasteur, 28 rue du Docteur Roux,
+RL   75724 Paris Cedex 15, France E-mail: parkhill@sanger.ac.uk
+XX
+CC   On Jan 28, 2004 this sequence version replaced gi:30474874.
+CC   Notes:
+CC   Details of M. tuberculosis sequencing at the Sanger Centre are
+CC   available on the World Wide Web.
+CC   (URL, http://www.sanger.ac.uk/Projects/M_tuberculosis/).
+XX
+FH   Key             Location/Qualifiers
+FT   repeat_region   join(889021..890375)
+FT                   /note="IS6110-1, len: 1355 bp. Insertion sequence IS6110."
+FT                   /mobile_element="insertion sequence:IS6110-1"
+FT   repeat_region   join(889021..889048)
+FT                   /note="28 bp inverted repeat at the left end of IS6110,
+FT                   TGAACCGCCCCGGCATGTCCGGAGACTC"
+FT   gene            join(889072..889398)
+FT                   /locus_tag="Rv0795"
+FT   CDS             join(889072..889398)
+FT                   /color=11
+FT                   /locus_tag="Rv0795"
+FT                   /function="REQUIRED FOR THE TRANSPOSITION OF THE INSERTION
+FT                   ELEMENT IS6110."
+FT                   /note="Rv0795, (MTV042.05), len: 108 aa. Putative
+FT                   transposase for IS6110 (fragment), identical to Q50686
+FT                   INSERTION ELEMENT IS6110 (108 aa), FASTA score: (100.0 %
+FT                   identity in 108 aa overlap). TBparse score is 0.928."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="PUTATIVE TRANSPOSASE FOR INSERTION SEQUENCE
+FT                   ELEMENT IS6110 (FRAGMENT)"
+FT                   /protein_id="CAA17524.1"
+FT                   /db_xref="GI:2911035"
+FT                   /db_xref="GOA:P0C5G9"
+FT                   /db_xref="InterPro:IPR002514"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P0C5G9"
+FT                   /translation="MSGGSSRRYPPELRERAVRMVAEIRGQHDSEWAAISEVARLLGVG
+FT                   CAETVRKWVRQAQVDAGARPGTTTEESAELKRLRRDNAELRRANAILKTASAFFAAELD
+FT                   RPAR"
+FT   gene            join(889395..890333)
+FT                   /locus_tag="Rv0796"
+FT   CDS             join(889395..890333)
+FT                   /color=11
+FT                   /locus_tag="Rv0796"
+FT                   /function="REQUIRED FOR THE TRANSPOSITION OF THE INSERTION
+FT                   ELEMENT IS6110."
+FT                   /note="Rv0796, (MTV042.06), len: 312 aa. Putative
+FT                   transposase for IS6110. TBparse score is 0.926."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="PUTATIVE TRANSPOSASE FOR INSERTION SEQUENCE
+FT                   ELEMENT IS6110"
+FT                   /protein_id="CAA17525.1"
+FT                   /db_xref="GI:2911036"
+FT                   /db_xref="GOA:P0C5G8"
+FT                   /db_xref="InterPro:IPR001584"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P0C5G8"
+FT                   /translation="LITRFIADHQGHREGPDGLRWGVESICTQLTELGVPIAPSTYYDH
+FT                   INREPSRRELRDGELKEHISRVHAANYGVYGARKVWLTLNREGIEVARCTVERLMTKLG
+FT                   LSGTTRGKARRTTIADPATARPADLVQRRFGPPAPNRLWVADLTYVSTWAGFAYVAFVT
+FT                   DAYARRILGWRVASTMATSMVLDAIEQAIWTRQQEGVLDLKDVIHHTDRGSQYTSIRFS
+FT                   ERLAEAGIQPSVGAVGSSYDNALAETINGLYKTELIKPGKPWRSIEDVELATARWVDWF
+FT                   NHRRLYQYCGDVPPVELEAAYYAQRQRPAAG"
+FT   repeat_region   complement(join(890348..890375))
+FT                   /note="28 bp inverted repeat at the right end of IS6110,
+FT                   TGAACCGCCCCGGTGAGTCCGGAGACTC"
+FT   gene            join(1503103..1503384)
+FT                   /locus_tag="Rv1335"
+FT   CDS             join(1503103..1503384)
+FT                   /color=11
+FT                   /locus_tag="Rv1335"
+FT                   /function="UNKNOWN"
+FT                   /experiment="experimental evidence, no additional details
+FT                   recorded"
+FT                   /note="Rv1335, (MT1376.1, MTCY130.20), len: 93 aa. 9.5 kDa
+FT                   culture filtrate antigen cfp10A (see citation below).
+FT                   Similar to hypothetical proteins from other organisms e.g.
+FT                   P74060|D90911 Synechocystis (109 aa), FASTA scores: E():
+FT                   2.3e-20, (49.5% identity in 93 aa overlap)."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="9.5 KDA CULTURE FILTRATE ANTIGEN CFP10A"
+FT                   /protein_id="CAA98099.1"
+FT                   /db_xref="GI:1340101"
+FT                   /db_xref="GOA:P0A646"
+FT                   /db_xref="InterPro:IPR003749"
+FT                   /db_xref="InterPro:IPR012675"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P0A646"
+FT                   /translation="MNVTVSIPTILRPHTGGQKSVSASGDTLGAVISDLEANYSGISER
+FT                   LMDPSSPGKLHRFVNIYVNDEDVRFSGGLATAIADGDSVTILPAVAGG"
+FT   misc_feature    join(1503511..1503567)
+FT                   /gene="cysM"
+FT                   /locus_tag="Rv1336"
+FT                   /note="PS00901 Cysteine synthase/cystathionine
+FT                   beta-synthase P-phosphate attachment site"
+FT   repeat_region   complement(join(1541952..1543306))
+FT                   /note="IS6110-2, len: 1355 bp. Almost identical to
+FT                   Insertion sequence IS986 element."
+FT                   /mobile_element="insertion sequence:IS6110-2"
+FT   gene            complement(join(1541994..1542878))
+FT                   /locus_tag="Rv1369c"
+FT   CDS             complement(join(1541994..1542878))
+FT                   /color=11
+FT                   /locus_tag="Rv1369c"
+FT                   /function="POSSIBLY REQUIRED FOR THE TRANSPOSITION OF THE
+FT                   INSERTION ELEMENT IS6110."
+FT                   /note="Rv1369c, (MTCY02B12.03c), len: 294 aa. Probable
+FT                   transposase subunit for IS6110, identical from aa 69 to
+FT                   TRA9_MYCTU|P19774 putative transposase for insertion
+FT                   sequence."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="PROBABLE TRANSPOSASE"
+FT                   /protein_id="CAB02647.1"
+FT                   /db_xref="GI:1621251"
+FT                   /db_xref="GOA:P0C5G8"
+FT                   /db_xref="InterPro:IPR001584"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P0C5G8"
+FT                   /translation="MRWGVESICTQLTELGVPIAPSTYYDHINREPSRRELRDGELKEH
+FT                   ISRVHAANYGVYGARKVWLTLNREGIEVARCTVERLMTKLGLSGTTRGKARRTTIADPA
+FT                   TARPADLVQRRFGPPAPNRLWVADLTYVSTWAGFAYVAFVTDAYARRILGWRVASTMAT
+FT                   SMVLDAIEQAIWTRQQEGVLDLKDVIHHTDRGSQYTSIRFSERLAEAGIQPSVGAVGSS
+FT                   YDNALAETINGLYKTELIKPGKPWRSIEDVELATARWVDWFNHRRLYQYCGDVPPVELE
+FT                   AAYYAQRQRPAAG"
+FT   gene            complement(join(1542929..1543255))
+FT                   /locus_tag="Rv1370c"
+FT   CDS             complement(join(1542929..1543255))
+FT                   /color=11
+FT                   /locus_tag="Rv1370c"
+FT                   /function="POSSIBLY REQUIRED FOR THE TRANSPOSITION OF THE
+FT                   INSERTION ELEMENT IS6110."
+FT                   /note="Rv1370c, (MTCY02B12.04c), len: 108 aa. Probable
+FT                   transposase subunit for IS6110, highly similar to G309867
+FT                   IS401 transposase subunit (107 aa), FASTA scores: opt:
+FT                   325, E(): 2.7e-1 6, (52.9% identity in 102 aa overlap)."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="PROBABLE TRANSPOSASE"
+FT                   /protein_id="CAB02648.1"
+FT                   /db_xref="GI:1621252"
+FT                   /db_xref="GOA:P0C5G9"
+FT                   /db_xref="InterPro:IPR002514"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P0C5G9"
+FT                   /translation="MSGGSSRRYPPELRERAVRMVAEIRGQHDSEWAAISEVARLLGVG
+FT                   CAETVRKWVRQAQVDAGARPGTTTEESAELKRLRRDNAELRRANAILKTASAFFAAELD
+FT                   RPAR"
+FT   gene            join(1779314..1779724)
+FT                   /locus_tag="Rv1573"
+FT   CDS             join(1779314..1779724)
+FT                   /color=11
+FT                   /locus_tag="Rv1573"
+FT                   /function="UNKNOWN"
+FT                   /note="Rv1573, (MTCY336.31c), len: 136 aa. Probable phiRv1
+FT                   phage protein (see citation below). TBparse score is
+FT                   0.872."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="Probable phiRV1 phage protein"
+FT                   /protein_id="CAB09064.1"
+FT                   /db_xref="GI:2117264"
+FT                   /db_xref="UniProtKB/TrEMBL:O06617"
+FT                   /translation="MTTTPARFNHLVTVTDLETGDRAVCDRDQVAETIRAWFPDAPLEV
+FT                   REALVRLQAALNRHEHTGELEAFLRISVEHADAAGGDECGPAILAGRSGPEQAAINRQL
+FT                   GLAGDDEPDGDDTPPWSRMIGLGGGSPAEDER"
+FT   gene            join(1779930..1780241)
+FT                   /locus_tag="Rv1574"
+FT   CDS             join(1779930..1780241)
+FT                   /color=11
+FT                   /locus_tag="Rv1574"
+FT                   /function="UNKNOWN"
+FT                   /note="Rv1574, (MTCY336.30), len: 103 aa. Probable phiRV1
+FT                   phage related protein (see citation below); some
+FT                   similarity to N-terminus of Rv1575|MTCY441.17 Probable
+FT                   phiRV1 phage protein (166 aa), E(): 1.5e-06; and
+FT                   Rv2647|MTCY336.29c Probable phiRV2 phage protein, E():
+FT                   3.5e-05. Helix turn helix motif present at aa 14-35 (+3.61
+FT                   SD)."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="Probable phiRV1 phage related protein"
+FT                   /protein_id="CAB09063.1"
+FT                   /db_xref="GI:2117263"
+FT                   /db_xref="UniProtKB/TrEMBL:O06616"
+FT                   /translation="MGYKPESERHSTKTDTAIGAALGISAGTYRRLKRIDNATHSDDKE
+FT                   IRRFAEKQMAPLVAGSPSWNARKPRSANARVVASVHRSPMPALVPWNQSRLSATLTRR"
+FT   repeat_region   complement(join(1779959..1780047))
+FT                   /note="89 bp direct repeat 2, first copy at
+FT                   1780485..1780573,
+FT                   GGGTTGCGTTGTCGATTCGTTTGAGCCGCCGGTAGGTGCCGGCGGAGATGCCGAGGG
+FT                   CTGCGCCGATAGCAGTGTCTGTTTTCGTCGAA"
+FT   gene            join(1780199..1780699)
+FT                   /locus_tag="Rv1575"
+FT   CDS             join(1780199..1780699)
+FT                   /color=11
+FT                   /locus_tag="Rv1575"
+FT                   /function="UNKNOWN"
+FT                   /note="Rv1575, (MTCY336.29c), len: 166 aa. Probable phiRV1
+FT                   phage protein (see citation below), showing similarity in
+FT                   N-terminal part to Rv1574|MTCY336.30c Probable phiRV1
+FT                   phage protein (103 aa), FASTA score: opt: 375, E():
+FT                   3.8e-16, (60.2% identity in 103 aa overlap); and Rv2647
+FT                   Probable phiRV2 phage protein. Start changed since first
+FT                   submission (+49 aa)."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="Probable phiRV1 phage protein"
+FT                   /protein_id="CAB09062.2"
+FT                   /db_xref="GI:38684038"
+FT                   /db_xref="UniProtKB/TrEMBL:O06615"
+FT                   /translation="MEPKPSQRHTDKEVGAALGISAGTYKRLKRIDNATRSDDKEIRLF
+FT                   AEKQMAPLAAGSPSWNGRKPSSGNRKAATMAARLDILAWGPWAPSQNRSVVRRKQTLLS
+FT                   AQPSASPPAPTGGSNESTTQPAASWRVGGPAPLSRGRPRLALSYLRGSLHLQNSKRVAH
+FT                   QHI"
+FT   repeat_region   complement(join(1780485..1780573))
+FT                   /note="89 bp direct repeat 1, second copy at
+FT                   1779959..1780047,
+FT                   GGGTTGCGTTGTCGATTCGTTTGAGCCGCCGGTAGGTGCCGGCGGAGATGCCGAGGG
+FT                   CTGCGCCGATAGCAGTGTCTGTTTTCGTCGAA. Many repeats, both
+FT                   direct and inverted, in this region"
+FT   gene            complement(join(1780643..1782064))
+FT                   /locus_tag="Rv1576c"
+FT   CDS             complement(join(1780643..1782064))
+FT                   /color=11
+FT                   /locus_tag="Rv1576c"
+FT                   /function="UNKNOWN"
+FT                   /note="Rv1576c, (MTCY336.28), len: 473 aa. Probable phiRV1
+FT                   phage protein (capsid subunit) (see citation below).
+FT                   Highly similar to hypothetical Mycobacterium tuberculosis
+FT                   protein Rv2650c|MTCY441.19 phiRV2 phage related protein,
+FT                   FASTA scores: opt: 2782, E(): 0, (89.1% identity in 468 aa
+FT                   overlap). TBparse score is 0.909."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="Probable phiRV1 phage protein"
+FT                   /protein_id="CAB09061.1"
+FT                   /db_xref="GI:2117261"
+FT                   /db_xref="InterPro:IPR006444"
+FT                   /db_xref="UniProtKB/TrEMBL:O06614"
+FT                   /translation="MTEFDDIKNLSLPETRDAAKQLLDSVAGDLTGEAAQRFQALTRHA
+FT                   EELRAEQRRRGREAEEALRRYRAGELRVVPGAPTGGDDGDAPPGNSLRDTAFRTLDSCV
+FT                   RDGLMSSRAAETAETLCRTGPPQSTSWAQRWLAATGSRDYLGAFVKRVSNPVAGHTVWT
+FT                   DREAAAWREAAAVAAEQRAMGLVDTQGGFLIPAALDPAILLSGDGSTNPIRQVARVVQT
+FT                   TSEIWRGVTSEGAEARWYSEAQEVSDDSPALAQPAVPNYRGSCWIPFSIELEGDAASFV
+FT                   GEIGKILADSVEQLQAAAFVNGSGNGEPTGFVSALTGTSDQVVVGAGSEAIVAADVYAL
+FT                   QSALPPRFQASAAFAANLSTINTLRQAETSNGALKFPSLHDSPPMLAGKSVLEVSHMDT
+FT                   VDSAVTATNHPLVLGDWKQFLIGDRVGSMVELVPHLFGPNRRPTGQRGFFAWFRVGSDV
+FT                   LVRNAFRVLKVETTA"
+FT   gene            complement(join(1782072..1782584))
+FT                   /locus_tag="Rv1577c"
+FT   CDS             complement(join(1782072..1782584))
+FT                   /color=11
+FT                   /locus_tag="Rv1577c"
+FT                   /function="UNKNOWN"
+FT                   /note="Rv1577c, (MTCY336.27), len: 170 aa. Probable phiRv1
+FT                   phage protein (prohead protease) (see citation below).
+FT                   Highly similar to hypothetical protein Rv2651c|MTCY441.20c
+FT                   phiRV2 prohead protease, FASTA scores: E(): 0, (89.3%
+FT                   identity in 169 aa overlap). Some similarity to
+FT                   VP4_BPHK7|P49860 putative bacteriophage HK97 prohead
+FT                   protease (gp4) (225 aa), FASTA results: opt: 176, E():
+FT                   1.3e-05, (27.3% identity in 165 aa overlap). TBparse score
+FT                   is 0.912."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="Probable phiRv1 phage protein"
+FT                   /protein_id="CAB09060.1"
+FT                   /db_xref="GI:2117260"
+FT                   /db_xref="InterPro:IPR006433"
+FT                   /db_xref="UniProtKB/TrEMBL:O06613"
+FT                   /translation="MAELRSGEGRTVHGTIVPYNEATTVRDFDGEFQEMFAPGAFRRSI
+FT                   AERGHKLKLLVSHDARTRYPVGRAVELREEPHGLFGAFEIADTPDGDEALANVKAGVVD
+FT                   SFSVGFRPIRDRREGDVLVRVEAALLEVSLTGVPAYSGAQIAGVRAESLTVVSRSTAEA
+FT                   WLSLLDW"
+FT   gene            complement(join(1782758..1783228))
+FT                   /locus_tag="Rv1578c"
+FT   CDS             complement(join(1782758..1783228))
+FT                   /color=11
+FT                   /locus_tag="Rv1578c"
+FT                   /function="UNKNOWN"
+FT                   /note="Rv1578c, (MTCY336.26), len: 156 aa. Probable phiRv1
+FT                   phage protein (terminase) (see citation below), highly
+FT                   similar to Rv2652c|MTCY441.21c phiRV2 phage protein from
+FT                   Mycobacterium tuberculosis, FASTA scores: E(): 4.8e-22,
+FT                   (48.1% identity in 156 aa overlap). Also similar to
+FT                   X65555|ARP3COS_1 hypothetical protein (cos site) -
+FT                   actinophage RP3 (210 aa), FASTA scores: opt: 373, E():
+FT                   6.5e-17, (50.0% identity in 114 aa overlap). Contains MIP
+FT                   family signature (PS00221). TBparse score is 0.902."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="Probable phiRv1 phage protein"
+FT                   /protein_id="CAB09059.1"
+FT                   /db_xref="GI:2117259"
+FT                   /db_xref="InterPro:IPR000425"
+FT                   /db_xref="InterPro:IPR006448"
+FT                   /db_xref="UniProtKB/TrEMBL:O06612"
+FT                   /translation="MPRPPKPARLKLVEGRSPGRDSGGRKVPESPKFIRQAPDAPDWLD
+FT                   AEALAEWRRVAPTLERLDLLKPEDRALLSAYCETWSVYVAAVQRVRAEGLTITSPKSGV
+FT                   VHRNPAVTVAETARMHLLRLASEFGLTPAAEQRLAVAPGDDGDGLNPFAPDR"
+FT   misc_feature    complement(join(1782887..1782913))
+FT                   /locus_tag="Rv1578c"
+FT                   /note="PS00221 MIP family signature"
+FT   gene            complement(join(1783309..1783623))
+FT                   /locus_tag="Rv1579c"
+FT   CDS             complement(join(1783309..1783623))
+FT                   /color=11
+FT                   /locus_tag="Rv1579c"
+FT                   /function="UNKNOWN"
+FT                   /note="Rv1579c, (MTCY336.25), len: 104 aa. Probable phiRv1
+FT                   phage protein (see citation below). TBparse score is
+FT                   0.921."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="Probable phiRv1 phage protein"
+FT                   /protein_id="CAB09090.1"
+FT                   /db_xref="GI:2117258"
+FT                   /db_xref="UniProtKB/TrEMBL:O06611"
+FT                   /translation="MTPINRPLTNDERQLMHELAVQVVCSQTGCSPDAAVEALESFAKD
+FT                   GTLILRGDTENAYLEAGGNVLVHADRDWLAFHASYPGNDPLRDARPIEQDDDQGAGSPS
+FT                   "
+FT   gene            complement(join(1783620..1783892))
+FT                   /locus_tag="Rv1580c"
+FT   CDS             complement(join(1783620..1783892))
+FT                   /color=11
+FT                   /locus_tag="Rv1580c"
+FT                   /function="UNKNOWN"
+FT                   /note="Rv1580c, (MTCY336.24), len: 90 aa. Probable phiRv1
+FT                   phage protein (see citation below). TBparse score is
+FT                   0.878."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="Probable phiRv1 phage protein"
+FT                   /protein_id="CAB09089.1"
+FT                   /db_xref="GI:2117257"
+FT                   /db_xref="UniProtKB/TrEMBL:O06610"
+FT                   /translation="MAETPDHAELRRRIADMAFNADVGMATCKRCGDAVPYIILPNLQT
+FT                   GEPVMGVADNKWKRANCPVDVGKPCPFLIAEGVADSTDDTIEVDQ"
+FT   gene            complement(join(1783906..1784301))
+FT                   /locus_tag="Rv1581c"
+FT   CDS             complement(join(1783906..1784301))
+FT                   /color=11
+FT                   /locus_tag="Rv1581c"
+FT                   /function="UNKNOWN"
+FT                   /note="Rv1581c, (MTCY336.23), len: 131 aa. Probable phiRv1
+FT                   phage protein (see citation below). TBparse score is
+FT                   0.928."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="Probable phiRv1 phage protein"
+FT                   /protein_id="CAB09088.1"
+FT                   /db_xref="GI:2117256"
+FT                   /db_xref="UniProtKB/TrEMBL:O06609"
+FT                   /translation="MTAVAITPASGGRHSVRFAYDSAIVSLIKSTIPAYARSWSAHTRC
+FT                   WFIDADWTPLLAAELRYHGHTVTGPADPAQQQCTDWAKALFRAVGPQRTPAVYRALSKV
+FT                   LHPDAPTGCPILQQQLNAARTALTNPA"
+FT   gene            complement(join(1784497..1785912))
+FT                   /locus_tag="Rv1582c"
+FT   CDS             complement(join(1784497..1785912))
+FT                   /color=11
+FT                   /locus_tag="Rv1582c"
+FT                   /function="UNKNOWN"
+FT                   /note="Rv1582c, (MTCY336.22), len: 471 aa. Probable phiRv1
+FT                   phage protein (see citation below). N-terminus is similar
+FT                   to C-terminus of Q38030 ORF9 Bacteriophage phi-C31 (519
+FT                   aa), FASTA scores: opt: 331, E(): 6.5e-15, (28.5% identity
+FT                   in 235 aa overlap); and C-terminus to whole of Q38031
+FT                   ORF10 of Bacteriophage phi-C31 (202 aa), FASTA scores:
+FT                   opt: 353, E(): 1e-16, (31.1% identity in 190 aa overlap).
+FT                   Also similar to part of AB016282|AB016282_42 Bacteriophage
+FT                   phi-105 (806 aa), FASTA scores: opt: 790, E(): 0, (32.7%
+FT                   identity in 459 aa overlap). Similarity to other phage
+FT                   proteins described as putative DNA-polymerase or
+FT                   DNA-primase. Also slightly similar to MTCY441.24c, FASTA
+FT                   scores: E(): 0.0055, (36.0% identity in 75 aa overlap)."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="Probable phiRv1 phage protein"
+FT                   /protein_id="CAB09087.1"
+FT                   /db_xref="GI:2117255"
+FT                   /db_xref="GOA:O06608"
+FT                   /db_xref="InterPro:IPR006500"
+FT                   /db_xref="InterPro:IPR014015"
+FT                   /db_xref="InterPro:IPR014818"
+FT                   /db_xref="UniProtKB/TrEMBL:O06608"
+FT                   /translation="MADIPYGTDYPDAPWIDRDGHVLIDDGGKPTQVHRGQARIAYRLA
+FT                   ERYQDKLLHVAGIGWHSWDGRRWAADDRGEAKRAVLAELRQALSDSLNDKELRADVRKC
+FT                   ESASGVAGVLDLAAALVPFAATVADLDSDPHLLNVANGTLDLHTLKLRPHAPADRITKI
+FT                   CRGAYQSDTESPLWQAFLTRVLPDEGVRGFVQRLAGVGLLGTVREHVLAILIGVGANGK
+FT                   SVFDKAIRYALGDYACTAEPDLFMHRENAHPTGEMDLRGVRWVAVSESEKDRRLAESTI
+FT                   KRLTGGDTIRARKMRQDFVEFTPSHTPLLITNHLPRVPGDDTAIWRRIRVVPFEVVIPA
+FT                   DEQDRELDARLQLEADSILSWAVAGWSDYQRIGLSQPDAVLAATSNYREDSDTIKRFID
+FT                   DECVTSSPVLKATTTHLFEAWQRWRVQEGVPEISRKAFGQSLDTHGYPVTDKARDGRWR
+FT                   AGIAVRGADDFDD"
+FT   gene            complement(join(1785912..1786310))
+FT                   /locus_tag="Rv1583c"
+FT   CDS             complement(join(1785912..1786310))
+FT                   /color=11
+FT                   /locus_tag="Rv1583c"
+FT                   /function="UNKNOWN"
+FT                   /note="Rv1583c, (MTCY336.21), len: 132 aa. Probable phiRv1
+FT                   phage protein (see citation below), highly similar to
+FT                   Rv2656c|MTCY441.25c phiRV2 phage protein (130 aa), FASTA
+FT                   score: E(): 1.3e-33, (81.7% identity in 131 aa overlap).
+FT                   TBparse score is 0.912."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="Probable phiRv1 phage protein"
+FT                   /protein_id="CAB09086.1"
+FT                   /db_xref="GI:2117254"
+FT                   /db_xref="UniProtKB/Swiss-Prot:O06607"
+FT                   /translation="MTAGAGGSPPTRRCPATEDRAPATVATPSSADPTASRAVSWWSVH
+FT                   EHVAPVLDAAGSWPMAGTPAWRQLDDADPRKWAAICDAARHWALRVETCQEAMAQASRD
+FT                   VSAAADWPGIAREIVRRRGVYIPRAGVA"
+FT   gene            complement(join(1786307..1786528))
+FT                   /locus_tag="Rv1584c"
+FT   CDS             complement(join(1786307..1786528))
+FT                   /color=11
+FT                   /locus_tag="Rv1584c"
+FT                   /function="UNKNOWN"
+FT                   /note="Rv1584c, (MTCY336.20), len: 73 aa. Possible phiRv1
+FT                   phage protein (putative excisionase) (see citation below).
+FT                   TBparse score is 0.883."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="Possible phiRv1 phage protein"
+FT                   /protein_id="CAB09085.1"
+FT                   /db_xref="GI:2117253"
+FT                   /db_xref="UniProtKB/TrEMBL:O06606"
+FT                   /translation="MSTIYHHRGRVAALSRSRASDDPEFIAAKTDLVAANIADYLIRTL
+FT                   AAAPPLTDEQRTRLAELLRPVRRSGGAR"
+FT   gene            complement(join(1786584..1787099))
+FT                   /locus_tag="Rv1585c"
+FT   CDS             complement(join(1786584..1787099))
+FT                   /color=11
+FT                   /locus_tag="Rv1585c"
+FT                   /function="UNKNOWN"
+FT                   /experiment="experimental evidence, no additional details
+FT                   recorded"
+FT                   /note="Rv1585c, (MTCY336.19), len: 171 aa. Possible phage
+FT                   phiRv1 protein (see Hatfull 2000). TBparse score is
+FT                   0.926."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="Possible phage phiRv1 protein"
+FT                   /protein_id="CAB09084.1"
+FT                   /db_xref="GI:2117252"
+FT                   /db_xref="UniProtKB/TrEMBL:O06605"
+FT                   /translation="MSRHHNIVIVCDHGRKGDGRIEHERCDLVAPIIWVDETQGWLPQA
+FT                   PAVATLLDDDNQPRAVIGLPPNESRLRPEMRRDGWVRLHWEFACLRYGAAGVRTCEQRP
+FT                   VRVRNGDLQTLCENVPRLLTGLAGNPDYAPGFAVQSDAVVVAMWLWRTLCESDTPNKLR
+FT                   ATPTRGSC"
+FT   gene            complement(join(1787096..1788505))
+FT                   /locus_tag="Rv1586c"
+FT   CDS             complement(join(1787096..1788505))
+FT                   /color=11
+FT                   /locus_tag="Rv1586c"
+FT                   /function="integration of phiRv1 into chromosome."
+FT                   /note="Rv1586c, (MTCY336.18), len: 469 aa. Probable phiRv1
+FT                   integrase, possibly member of the serine family of
+FT                   recombinases (see citation below), similar to several
+FT                   bacteriophage integrases e.g. Q37839 ORF469 PROTEIN from
+FT                   Bacteriophage R4 (469 aa), FASTA scores: opt: 623, E():
+FT                   1.6e-29, (31.1% identity in 482 aa overlap); and
+FT                   Bacteriophage TP901-1."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="Probable phiRv1 integrase"
+FT                   /protein_id="CAB09083.1"
+FT                   /db_xref="GI:2117251"
+FT                   /db_xref="GOA:O06604"
+FT                   /db_xref="InterPro:IPR006119"
+FT                   /db_xref="InterPro:IPR011109"
+FT                   /db_xref="UniProtKB/TrEMBL:O06604"
+FT                   /translation="MRYTTPVRAAVYLRISEDRSGEQLGVARQREDCLKLCGQRKWVPV
+FT                   EYLDNDVSASTGKRRPAYEQMLADITAGKIAAVVAWDLDRLHRRPIELEAFMSLADEKR
+FT                   LALATVAGDVDLATPQGRLVARLKGSVAAHETEHKKARQRRAARQKAERGHPNWSKAFG
+FT                   YLPGPNGPEPDPRTAPLVKQAYADILAGASLGDVCRQWNDAGAFTITGRPWTTTTLSKF
+FT                   LRKPRNAGLRAYKGARYGPVDRDAIVGKAQWSPLVDEATFWAAQAVLDAPGRAPGRKSV
+FT                   RRHLLTGLAGCGKCGNHLAGSYRTDGQVVYVCKACHGVAILADNIEPILYHIVAERLAM
+FT                   PDAVDLLRREIHDAAEAETIRLELETLYGELDRLAVERAEGLLTARQVKISTDIVNAKI
+FT                   TKLQARQQDQERLRVFDGIPLGTPQVAGMIAELSPDRFRAVLDVLAEVVVQPVGKSGRI
+FT                   FNPERVQVNWR"
+FT   repeat_region   complement(join(1983043..1983120))
+FT                   /gene="PPE24"
+FT                   /locus_tag="Rv1753c"
+FT                   /note="78 bp imperfect direct repeat 4,
+FT                   CGGCGCCTTCAGCCTGCCCGGGTTGACGTTGCCGTCGTTGAACATCCCGGCCGCCAC
+FT                   CACACCAGCCAACATCACCGT"
+FT   repeat_region   join(1996101..1997455)
+FT                   /note="IS6110-4, len: 1355 bp. Insertion sequence IS6110."
+FT                   /mobile_element="insertion sequence:IS6110-4"
+FT   repeat_region   join(1996101..1996128)
+FT                   /note="28 bp inverted repeat at the left end of IS6110,
+FT                   TGAACCGCCCCGGCATGTCCGGAGACTC"
+FT   gene            join(1996152..1996478)
+FT                   /locus_tag="Rv1763"
+FT   CDS             join(1996152..1996478)
+FT                   /color=11
+FT                   /locus_tag="Rv1763"
+FT                   /function="REQUIRED FOR THE TRANSPOSITION OF THE INSERTION
+FT                   ELEMENT IS6110."
+FT                   /note="Rv1763, (MTCY28.29), len: 108 aa. Putative
+FT                   Transposase for IS6110 insertion element"
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="PUTATIVE TRANSPOSASE"
+FT                   /protein_id="CAB09339.1"
+FT                   /db_xref="GI:2131025"
+FT                   /db_xref="GOA:P0C5G9"
+FT                   /db_xref="InterPro:IPR002514"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P0C5G9"
+FT                   /translation="MSGGSSRRYPPELRERAVRMVAEIRGQHDSEWAAISEVARLLGVG
+FT                   CAETVRKWVRQAQVDAGARPGTTTEESAELKRLRRDNAELRRANAILKTASAFFAAELD
+FT                   RPAR"
+FT   gene            join(1996529..1997413)
+FT                   /locus_tag="Rv1764"
+FT   CDS             join(1996529..1997413)
+FT                   /color=11
+FT                   /locus_tag="Rv1764"
+FT                   /function="REQUIRED FOR THE TRANSPOSITION OF THE INSERTION
+FT                   ELEMENT IS6110."
+FT                   /note="Rv1764, (MTCY28.30), len: 294 aa. Putative
+FT                   Transposase for IS6110 insertion element"
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="PUTATIVE TRANSPOSASE"
+FT                   /protein_id="CAB09338.1"
+FT                   /db_xref="GI:2131024"
+FT                   /db_xref="GOA:P0C5G8"
+FT                   /db_xref="InterPro:IPR001584"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P0C5G8"
+FT                   /translation="MRWGVESICTQLTELGVPIAPSTYYDHINREPSRRELRDGELKEH
+FT                   ISRVHAANYGVYGARKVWLTLNREGIEVARCTVERLMTKLGLSGTTRGKARRTTIADPA
+FT                   TARPADLVQRRFGPPAPNRLWVADLTYVSTWAGFAYVAFVTDAYARRILGWRVASTMAT
+FT                   SMVLDAIEQAIWTRQQEGVLDLKDVIHHTDRGSQYTSIRFSERLAEAGIQPSVGAVGSS
+FT                   YDNALAETINGLYKTELIKPGKPWRSIEDVELATARWVDWFNHRRLYQYCGDVPPVELE
+FT                   AAYYAQRQRPAAG"
+FT   gene            complement(join(1997418..1998515))
+FT                   /locus_tag="Rv1765c"
+FT   CDS             complement(join(1997418..1998515))
+FT                   /color=11
+FT                   /locus_tag="Rv1765c"
+FT                   /function="UNKNOWN"
+FT                   /note="Rv1765c, (MTCY28.31c), len: 365 aa. Conserved
+FT                   hypothetical protein, highly similar to
+FT                   O53461|Rv2015c|MTV018.02c CONSERVED HYPOTHETICAL PROTEIN
+FT                   (418 aa), (97.8% identity in 364 aa overlap). BLAST hits
+FT                   with non-IS part of sequence submitted under MTU78639."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="CONSERVED HYPOTHETICAL PROTEIN"
+FT                   /protein_id="CAB09341.1"
+FT                   /db_xref="GI:3242247"
+FT                   /db_xref="GOA:O06798"
+FT                   /db_xref="InterPro:IPR002711"
+FT                   /db_xref="InterPro:IPR003615"
+FT                   /db_xref="InterPro:IPR003870"
+FT                   /db_xref="UniProtKB/TrEMBL:O06798"
+FT                   /translation="MSSTATSGAAVVSPAERVEVLFEELAELAGQRNAIDGRIVEIVAE
+FT                   LDRDGLWGVTGARSVAGLVAWKMGCSSGNAHTIATVARRLPEFPRCARGMREGRLSLDQ
+FT                   VGVIAGRAGEGSDAHYAQLAGVATVNQLRTALKLEPRPEPEPDFRPEPRPSITRSADEQ
+FT                   FSCWRIKLPHVEAAKFDAALQSHLDALIAEYKRDHDNSDGVSDQRPPLPGNVEAFLRLV
+FT                   EAGWDAEVARRPHGQHTTVVMHLDVQERAAGLHLGPLLSESERRYLLCDATFEAWFERD
+FT                   GQVIGCGRTTRQINRRLRRALEHRDRTCVVPGCGATRGLHAHHIRHWQDGGATELANLV
+FT                   LVCPYHHRAHHRGLNRPGESGDSLI"
+FT   repeat_region   complement(join(1997428..1997455))
+FT                   /locus_tag="Rv1765c"
+FT                   /note="28 bp inverted repeat at the right end of IS6110,
+FT                   TGAACCGCCCCGGTGAGTCCGGAGACTC"
+FT   repeat_region   join(1998584..1998597)
+FT                   /note="14 bp Inverted repeat at the left end of ISB9',
+FT                   ATCACCCCGCAAAG"
+FT   repeat_region   join(2365414..2366768)
+FT                   /note="IS6110-5, len: 1355 bp. Insertion sequence IS6110."
+FT                   /mobile_element="insertion sequence:IS6110-5"
+FT   repeat_region   join(2365414..2365441)
+FT                   /note="28bp inverted repeat at the left end of IS6110,
+FT                   TGAACCGCCCCGGCATGTCCGGAGACTC"
+FT   gene            join(2365465..2365791)
+FT                   /locus_tag="Rv2105"
+FT   CDS             join(2365465..2365791)
+FT                   /color=11
+FT                   /locus_tag="Rv2105"
+FT                   /function="REQUIRED FOR THE TRANSPOSITION OF THE INSERTION
+FT                   ELEMENT IS6110."
+FT                   /note="Rv2105, (MTCY261.01), len: 108 aa. Probable
+FT                   transposase subunit for IS6110, similar to eg.
+FT                   Q51647|IS401 transposase subunit (107 aa), FASTA scores;
+FT                   opt: 325, E(): 3.8e-24, (52.9% identity in 102 aa
+FT                   overlap). Identical to many other Mycobacterium
+FT                   tuberculosis IS6110 transposase subunits."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="PROBABLE TRANSPOSASE"
+FT                   /protein_id="CAB10699.1"
+FT                   /db_xref="GI:2253045"
+FT                   /db_xref="GOA:P0C5G9"
+FT                   /db_xref="InterPro:IPR002514"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P0C5G9"
+FT                   /translation="MSGGSSRRYPPELRERAVRMVAEIRGQHDSEWAAISEVARLLGVG
+FT                   CAETVRKWVRQAQVDAGARPGTTTEESAELKRLRRDNAELRRANAILKTASAFFAAELD
+FT                   RPAR"
+FT   gene            join(2365788..2366726)
+FT                   /locus_tag="Rv2106"
+FT   CDS             join(2365788..2366726)
+FT                   /color=11
+FT                   /locus_tag="Rv2106"
+FT                   /function="REQUIRED FOR THE TRANSPOSITION OF THE INSERTION
+FT                   ELEMENT IS6110."
+FT                   /note="Rv2106, (MTCY261.02), len: 312 aa. Probable
+FT                   transposase subunit for IS6110. Identical to many other M.
+FT                   tuberculosis IS6110 transposase subunits."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="PROBABLE TRANSPOSASE"
+FT                   /protein_id="CAB10723.1"
+FT                   /db_xref="GI:3261821"
+FT                   /db_xref="GOA:P0C5G8"
+FT                   /db_xref="InterPro:IPR001584"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P0C5G8"
+FT                   /translation="LITRFIADHQGHREGPDGLRWGVESICTQLTELGVPIAPSTYYDH
+FT                   INREPSRRELRDGELKEHISRVHAANYGVYGARKVWLTLNREGIEVARCTVERLMTKLG
+FT                   LSGTTRGKARRTTIADPATARPADLVQRRFGPPAPNRLWVADLTYVSTWAGFAYVAFVT
+FT                   DAYARRILGWRVASTMATSMVLDAIEQAIWTRQQEGVLDLKDVIHHTDRGSQYTSIRFS
+FT                   ERLAEAGIQPSVGAVGSSYDNALAETINGLYKTELIKPGKPWRSIEDVELATARWVDWF
+FT                   NHRRLYQYCGDVPPVELEAAYYAQRQRPAAG"
+FT   repeat_region   complement(join(2366741..2366768))
+FT                   /note="28bp inverted repeat at the right end of IS6110,
+FT                   TGAACCGCCCCGGTGAGTCCGGAGACTC"
+FT   gene            join(2367359..2367655)
+FT                   /gene="PE22"
+FT                   /locus_tag="Rv2107"
+FT   CDS             join(2367359..2367655)
+FT                   /color=11
+FT                   /gene="PE22"
+FT                   /locus_tag="Rv2107"
+FT                   /function="UNKNOWN"
+FT                   /note="Rv2107, (MTCY261.03), len: 98 aa. Member of
+FT                   mycobacterial PE family (see citation below), e.g.
+FT                   Y03A_MYCTU Q10637 hypothetical glycine-rich 49.6 kDa
+FT                   protein (603 aa), FASTA scores; opt: 214 E(): 1.3e-14,
+FT                   (39.8% identity in 93 aa overlap)."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="PE FAMILY PROTEIN"
+FT                   /protein_id="CAE55454.1"
+FT                   /db_xref="GI:38490310"
+FT                   /db_xref="InterPro:IPR000084"
+FT                   /db_xref="UniProtKB/TrEMBL:Q7D7I5"
+FT                   /translation="MSFVNVDPFGMLAAAATLESLGSHMAVSNAAVASVTTKVPPPAAD
+FT                   YVSKKLSLFFSSHGQQYQVQAARGTAFHRKLVRTLANGALAYEEVEIANNEGF"
+FT   repeat_region   complement(join(2430117..2431471))
+FT                   /note="IS6110-6, len: 1355 bp. Insertion sequence IS6110."
+FT                   /mobile_element="insertion sequence:IS6110-6"
+FT   repeat_region   complement(join(2430117..2430144))
+FT                   /note="28 bp Inverted repeat at the left end of IS6110;
+FT                   GAGTCTCCGGACTCACCGGGGCGGTTCA"
+FT   gene            complement(join(2430159..2431199))
+FT                   /locus_tag="Rv2167c"
+FT   CDS             complement(join(2430159..2431199))
+FT                   /color=11
+FT                   /locus_tag="Rv2167c"
+FT                   /function="REQUIRED FOR THE TRANSPOSITION OF THE INSERTION
+FT                   ELEMENT IS6110."
+FT                   /note="Rv2167c, (MTCY270.01), len: 346 aa. Probable IS6110
+FT                   transposase. FASTA best: TRA9_MYCTU P19774 putative
+FT                   transposase for insertion sequence (identical)"
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="PROBABLE TRANSPOSASE"
+FT                   /protein_id="CAA17494.1"
+FT                   /db_xref="GI:3242294"
+FT                   /db_xref="GOA:P0C5G8"
+FT                   /db_xref="InterPro:IPR001584"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P0C5G8"
+FT                   /translation="AEALAAGQRRIAKGERDFKDRVGFLRGRARPASTLITRFIADHQG
+FT                   HREGPDGLRWGVESICTQLTELGVPIAPSTYYDHINREPSRRELRDGELKEHISRVHAA
+FT                   NYGVYGARKVWLTLNREGIEVARCTVERLMTKLGLSGTTRGKARRTTIADPATARPADL
+FT                   VQRRFGPPAPNRLWVADLTYVSTWAGFAYVAFVTDAYARRILGWRVASTMATSMVLDAI
+FT                   EQAIWTRQQEGVLDLKDVIHHTDRGSQYTSIRFSERLAEAGIQPSVGAVGSSYDNALAE
+FT                   TINGLYKTELIKPGKPWRSIEDVELATARWVDWFNHRRLYQYCGDVPPVELEAAYYAQR
+FT                   QRPAAG"
+FT   gene            complement(join(2431094..2431420))
+FT                   /locus_tag="Rv2168c"
+FT   CDS             complement(join(2431094..2431420))
+FT                   /color=11
+FT                   /locus_tag="Rv2168c"
+FT                   /function="REQUIRED FOR THE TRANSPOSITION OF THE INSERTION
+FT                   ELEMENT IS6110."
+FT                   /note="Rv2168c, (MTV021.01c), len: 108 aa. Probable IS6110
+FT                   transposase. FASTA scores: O08155|O08155 HYPOTHETICAL 12.0
+FT                   kDa PROTEIN (108 aa) opt: 697, E(): 0, (100.0% identity in
+FT                   108 aa overlap). TBparse score is 0.928."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="PROBABLE TRANSPOSASE"
+FT                   /protein_id="CAA17472.1"
+FT                   /db_xref="GI:2911088"
+FT                   /db_xref="GOA:P0C5G9"
+FT                   /db_xref="InterPro:IPR002514"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P0C5G9"
+FT                   /translation="MSGGSSRRYPPELRERAVRMVAEIRGQHDSEWAAISEVARLLGVG
+FT                   CAETVRKWVRQAQVDAGARPGTTTEESAELKRLRRDNAELRRANAILKTASAFFAAELD
+FT                   RPAR"
+FT   repeat_region   complement(join(2431444..2431471))
+FT                   /note="28 bp Inverted repeat at the right end of IS6110,
+FT                   TGAACCGCCCCGGCATGTCCGGAGACTC"
+FT   repeat_region   join(2550014..2551368)
+FT                   /note="IS6110-7, len: 1355 bp. Insertion sequence IS6110."
+FT                   /mobile_element="insertion sequence:IS6110-7"
+FT   repeat_region   join(2550014..2550041)
+FT                   /note="28 bp inverted repeat at the left end of IS6110,
+FT                   TGAACCGCCCCGGCATGTCCGGAGACTC"
+FT   gene            join(2550065..2550391)
+FT                   /locus_tag="Rv2278"
+FT   CDS             join(2550065..2550391)
+FT                   /color=11
+FT                   /locus_tag="Rv2278"
+FT                   /function="REQUIRED FOR THE TRANSPOSITION OF THE INSERTION
+FT                   ELEMENT IS6110."
+FT                   /note="Rv2278, (MTCY339.32c), len: 108 aa. Probable IS6110
+FT                   transposase nearly identical to SW:YI32_MYCTU P19772
+FT                   insertion element IS986 hypothetical (96.6% identity in 59
+FT                   aa overlap), similar to TR:G309867 IS401 transposase
+FT                   subunit (51.4% identity in 105 aa overlap), predicted
+FT                   region of coiled coil at C-terminus."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="PROBABLE TRANSPOSASE"
+FT                   /protein_id="CAB00989.1"
+FT                   /db_xref="GI:1449342"
+FT                   /db_xref="GOA:P0C5G9"
+FT                   /db_xref="InterPro:IPR002514"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P0C5G9"
+FT                   /translation="MSGGSSRRYPPELRERAVRMVAEIRGQHDSEWAAISEVARLLGVG
+FT                   CAETVRKWVRQAQVDAGARPGTTTEESAELKRLRRDNAELRRANAILKTASAFFAAELD
+FT                   RPAR"
+FT   gene            join(2550388..2551326)
+FT                   /locus_tag="Rv2279"
+FT   CDS             join(2550388..2551326)
+FT                   /color=11
+FT                   /locus_tag="Rv2279"
+FT                   /function="REQUIRED FOR THE TRANSPOSITION OF THE INSERTION
+FT                   ELEMENT IS6110."
+FT                   /note="Rv2279, (MTCY339.31c), len: 312 aa. Probable IS6110
+FT                   transposase , nearly identical to TRA9_MYCTU P19774
+FT                   putative transposase for insertion sequence IS986 orfB,
+FT                   (278 aa), FASTA scores, opt: 1859, E(): 0, (99.6% identity
+FT                   in 278 aa overlap)."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="PROBABLE TRANSPOSASE"
+FT                   /protein_id="CAB00998.1"
+FT                   /db_xref="GI:3261611"
+FT                   /db_xref="GOA:P0C5G8"
+FT                   /db_xref="InterPro:IPR001584"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P0C5G8"
+FT                   /translation="LITRFIADHQGHREGPDGLRWGVESICTQLTELGVPIAPSTYYDH
+FT                   INREPSRRELRDGELKEHISRVHAANYGVYGARKVWLTLNREGIEVARCTVERLMTKLG
+FT                   LSGTTRGKARRTTIADPATARPADLVQRRFGPPAPNRLWVADLTYVSTWAGFAYVAFVT
+FT                   DAYARRILGWRVASTMATSMVLDAIEQAIWTRQQEGVLDLKDVIHHTDRGSQYTSIRFS
+FT                   ERLAEAGIQPSVGAVGSSYDNALAETINGLYKTELIKPGKPWRSIEDVELATARWVDWF
+FT                   NHRRLYQYCGDVPPVELEAAYYAQRQRPAAG"
+FT   repeat_region   join(2551341..2551368)
+FT                   /note="28 bp inverted repeat at the right end of IS6110,
+FT                   GAGTCTCCGGACTCACCGGGGCGGTTCA"
+FT   repeat_region   complement(join(2784614..2785970))
+FT                   /note="IS6110-9, len: 1357 bp. Insertion sequence IS6110."
+FT                   /mobile_element="insertion sequence:IS6110-9"
+FT   repeat_region   join(2784614..2784642)
+FT                   /note="29 bp Inverted repeat at the left end of IS6110,
+FT                   GTGAACCGCCCCGGTGAGTCCGGAGACTC"
+FT   gene            complement(join(2784657..2785697))
+FT                   /locus_tag="Rv2479c"
+FT   CDS             complement(join(2784657..2785697))
+FT                   /color=11
+FT                   /locus_tag="Rv2479c"
+FT                   /function="REQUIRED FOR THE TRANSPOSITION OF THE INSERTION
+FT                   ELEMENT IS6110."
+FT                   /note="Rv2479c, (MTV008.35c), len: 346 aa. Probable
+FT                   transposase for IS6110, identical to many, probably
+FT                   translated by frame shifting from the upstream ORF."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="PROBABLE TRANSPOSASE"
+FT                   /protein_id="CAA16056.1"
+FT                   /db_xref="GI:2791519"
+FT                   /db_xref="GOA:P0C5G8"
+FT                   /db_xref="InterPro:IPR001584"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P0C5G8"
+FT                   /translation="AEALAAGQRRIAKGERDFKDRVGFLRGRARPASTLITRFIADHQG
+FT                   HREGPDGLRWGVESICTQLTELGVPIAPSTYYDHINREPSRRELRDGELKEHISRVHAA
+FT                   NYGVYGARKVWLTLNREGIEVARCTVERLMTKLGLSGTTRGKARRTTIADPATARPADL
+FT                   VQRRFGPPAPNRLWVADLTYVSTWAGFAYVAFVTDAYARRILGWRVASTMATSMVLDAI
+FT                   EQAIWTRQQEGVLDLKDVIHHTDRGSQYTSIRFSERLAEAGIQPSVGAVGSSYDNALAE
+FT                   TINGLYKTELIKPGKPWRSIEDVELATARWVDWFNHRRLYQYCGDVPPVELEAAYYAQR
+FT                   QRPAAG"
+FT   gene            complement(join(2785592..2785918))
+FT                   /locus_tag="Rv2480c"
+FT   CDS             complement(join(2785592..2785918))
+FT                   /color=11
+FT                   /locus_tag="Rv2480c"
+FT                   /function="THOUGHT TO BE REQUIRED FOR THE TRANSPOSITION OF
+FT                   THE INSERTION ELEMENT IS6110."
+FT                   /note="Rv2480c, (MTV008.36c), len: 108 aa. Possible
+FT                   transposase for IS6110, identical to many."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="POSSIBLE TRANSPOSASE"
+FT                   /protein_id="CAA16057.1"
+FT                   /db_xref="GI:2791520"
+FT                   /db_xref="GOA:P0C5G9"
+FT                   /db_xref="InterPro:IPR002514"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P0C5G9"
+FT                   /translation="MSGGSSRRYPPELRERAVRMVAEIRGQHDSEWAAISEVARLLGVG
+FT                   CAETVRKWVRQAQVDAGARPGTTTEESAELKRLRRDNAELRRANAILKTASAFFAAELD
+FT                   RPAR"
+FT   repeat_region   complement(join(2785942..2785970))
+FT                   /note="29 bp Inverted repeat at the right end of IS6110,
+FT                   GTGAACCGCCCCGGCATGTCCGGAGACTC"
+FT   repeat_region   join(2972109..2973463)
+FT                   /note="IS6110-10, len: 1355 bp. Insertion sequence
+FT                   IS6110."
+FT                   /mobile_element="insertion sequence:IS6110-10"
+FT   repeat_region   join(2972109..2972136)
+FT                   /note="28 bp inverted repeat: TGAACCGCCCCGGCATGTCCGGAGACTC
+FT                   at the left end of IS6110"
+FT   gene            join(2972160..2972486)
+FT                   /locus_tag="Rv2648"
+FT   CDS             join(2972160..2972486)
+FT                   /color=11
+FT                   /locus_tag="Rv2648"
+FT                   /function="REQUIRED FOR THE TRANSPOSITION OF THE INSERTION
+FT                   ELEMENT IS6110."
+FT                   /note="Rv2648, (MTCY441.17A), len: 108 aa. Probable
+FT                   transposase for IS6110."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="PROBABLE TRANSPOSASE FOR INSERTION SEQUENCE
+FT                   ELEMENT IS6110"
+FT                   /protein_id="CAB02366.1"
+FT                   /db_xref="GI:3242267"
+FT                   /db_xref="GOA:P0C5G9"
+FT                   /db_xref="InterPro:IPR002514"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P0C5G9"
+FT                   /translation="MSGGSSRRYPPELRERAVRMVAEIRGQHDSEWAAISEVARLLGVG
+FT                   CAETVRKWVRQAQVDAGARPGTTTEESAELKRLRRDNAELRRANAILKTASAFFAAELD
+FT                   RPAR"
+FT   gene            join(2972435..2973421)
+FT                   /locus_tag="Rv2649"
+FT   CDS             join(2972435..2973421)
+FT                   /color=11
+FT                   /locus_tag="Rv2649"
+FT                   /function="REQUIRED FOR THE TRANSPOSITION OF THE INSERTION
+FT                   ELEMENT IS6110."
+FT                   /note="Rv2649, (MTCY441.18), len: 328 aa. Probable
+FT                   transposase for IS6110."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="PROBABLE TRANSPOSASE FOR INSERTION SEQUENCE
+FT                   ELEMENT IS6110"
+FT                   /protein_id="CAB02367.1"
+FT                   /db_xref="GI:3242268"
+FT                   /db_xref="GOA:P0C5G8"
+FT                   /db_xref="InterPro:IPR001584"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P0C5G8"
+FT                   /translation="KDRVGFLRGRARPASTLITRFIADHQGHREGPDGLRWGVESICTQ
+FT                   LTELGVPIAPSTYYDHINREPSRRELRDGELKEHISRVHAANYGVYGARKVWLTLNREG
+FT                   IEVARCTVERLMTKLGLSGTTRGKARRTTIADPATARPADLVQRRFGPPAPNRLWVADL
+FT                   TYVSTWAGFAYVAFVTDAYARRILGWRVASTMATSMVLDAIEQAIWTRQQEGVLDLKDV
+FT                   IHHTDRGSQYTSIRFSERLAEAGIQPSVGAVGSSYDNALAETINGLYKTELIKPGKPWR
+FT                   SIEDVELATARWVDWFNHRRLYQYCGDVPPVELEAAYYAQRQRPAAG"
+FT   repeat_region   complement(join(2973436..2973463))
+FT                   /note="28 bp inverted repeat,
+FT                   TGAACCGCCCCGGTGAGTCCGGAGACTC, at the right end of IS6110."
+FT   repeat_region   complement(join(3121882..3121897))
+FT                   /note="16 bp partial direct repeat, GTCGTCAGACCCAAAA, of
+FT                   sequence GTCGTCAGACCCAAAACCCCGAGAGGGGACGGAAAC"
+FT   repeat_region   complement(join(3121938..3121973))
+FT                   /note="36 bp direct repeat, 36 out of 36 bp identical to
+FT                   sequence GTCGTCAGACCCAAAACCCCGAGAGGGGACGGAAAC"
+FT   repeat_region   complement(join(3122013..3122048))
+FT                   /note="36 bp direct repeat, 36 out of 36 bp identical to
+FT                   sequence GTCGTCAGACCCAAAACCCCGAGAGGGGACGGAAAC"
+FT   repeat_region   complement(join(3171522..3171572))
+FT                   /locus_tag="Rv2859c"
+FT                   /note="51 bp direct repeat 2,
+FT                   GTCCGATGGTGGCGACCCGCTGCGCCCGGCTTCGCCGCGCTTGCGATCGCC"
+FT   repeat_region   join(3551227..3551229)
+FT                   /note="3 bp direct repeat, cga, at 5'-end of IS6110"
+FT   repeat_region   join(3551230..3552584)
+FT                   /note="IS6110-12, len: 1355 bp. Insertion sequence
+FT                   IS6110."
+FT                   /mobile_element="insertion sequence:IS6110-12"
+FT   repeat_region   join(3551230..3551257)
+FT                   /note="28 bp inverted repeat at left end of IS6110,
+FT                   TGAACCGCCCCGGCATGTCCGGAGACTC"
+FT   gene            join(3551281..3551607)
+FT                   /locus_tag="Rv3184"
+FT   CDS             join(3551281..3551607)
+FT                   /color=11
+FT                   /locus_tag="Rv3184"
+FT                   /function="INVOLVED IN THE TRANSPOSITION IN THE INSERTION
+FT                   SEQUENCE IS6110."
+FT                   /note="Rv3184, (MTV014.28), len: 108 aa. Probable IS6110
+FT                   transposase. TBparse score is 0.928."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="PROBABLE TRANSPOSASE"
+FT                   /protein_id="CAA16649.1"
+FT                   /db_xref="GI:2827594"
+FT                   /db_xref="GOA:P0C5G9"
+FT                   /db_xref="InterPro:IPR002514"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P0C5G9"
+FT                   /translation="MSGGSSRRYPPELRERAVRMVAEIRGQHDSEWAAISEVARLLGVG
+FT                   CAETVRKWVRQAQVDAGARPGTTTEESAELKRLRRDNAELRRANAILKTASAFFAAELD
+FT                   RPAR"
+FT   gene            join(3551604..3552542)
+FT                   /locus_tag="Rv3185"
+FT   CDS             join(3551604..3552542)
+FT                   /color=11
+FT                   /locus_tag="Rv3185"
+FT                   /function="INVOLVED IN THE TRANSPOSITION IN THE INSERTION
+FT                   SEQUENCE IS6110."
+FT                   /note="Rv3185, (MTV014.29), len: 312 aa. Probable IS6110
+FT                   transposase. TBparse score is 0.926."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="PROBABLE TRANSPOSASE"
+FT                   /protein_id="CAA16650.1"
+FT                   /db_xref="GI:2827595"
+FT                   /db_xref="GOA:P0C5G8"
+FT                   /db_xref="InterPro:IPR001584"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P0C5G8"
+FT                   /translation="LITRFIADHQGHREGPDGLRWGVESICTQLTELGVPIAPSTYYDH
+FT                   INREPSRRELRDGELKEHISRVHAANYGVYGARKVWLTLNREGIEVARCTVERLMTKLG
+FT                   LSGTTRGKARRTTIADPATARPADLVQRRFGPPAPNRLWVADLTYVSTWAGFAYVAFVT
+FT                   DAYARRILGWRVASTMATSMVLDAIEQAIWTRQQEGVLDLKDVIHHTDRGSQYTSIRFS
+FT                   ERLAEAGIQPSVGAVGSSYDNALAETINGLYKTELIKPGKPWRSIEDVELATARWVDWF
+FT                   NHRRLYQYCGDVPPVELEAAYYAQRQRPAAG"
+FT   repeat_region   complement(join(3552557..3552584))
+FT                   /note="28 bp inverted repeat at right end of IS6110,
+FT                   TGAACCGCCCCGGTGAGTCCGGAGACTC"
+FT   repeat_region   join(3552585..3552587)
+FT                   /note="3 bp direct repeat, cga, at 3'-end of IS6110"
+FT   repeat_region   join(3552710..3552712)
+FT                   /note="3 bp direct repeat, att, at 5'-end of IS6110"
+FT   repeat_region   join(3552713..3554067)
+FT                   /note="IS6110-13, len: 1355 bp. Insertion sequence
+FT                   IS6110."
+FT                   /mobile_element="insertion sequence:IS6110-13"
+FT   repeat_region   join(3552713..3552740)
+FT                   /note="28 bp inverted repeat at left end of IS6110,
+FT                   TGAACCGCCCCGGCATGTCCGGAGACTC"
+FT   gene            join(3552764..3553090)
+FT                   /locus_tag="Rv3186"
+FT   CDS             join(3552764..3553090)
+FT                   /color=11
+FT                   /locus_tag="Rv3186"
+FT                   /function="INVOLVED IN THE TRANSPOSITION OF THE INSERTION
+FT                   SEQUENCE IS6110."
+FT                   /note="Rv3186, (MTV014.30), len: 108 aa. Probable IS6110
+FT                   transposase. TBparse score is 0.928."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="PROBABLE TRANSPOSASE"
+FT                   /protein_id="CAA16651.1"
+FT                   /db_xref="GI:2827596"
+FT                   /db_xref="GOA:P0C5G9"
+FT                   /db_xref="InterPro:IPR002514"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P0C5G9"
+FT                   /translation="MSGGSSRRYPPELRERAVRMVAEIRGQHDSEWAAISEVARLLGVG
+FT                   CAETVRKWVRQAQVDAGARPGTTTEESAELKRLRRDNAELRRANAILKTASAFFAAELD
+FT                   RPAR"
+FT   gene            join(3553087..3554025)
+FT                   /locus_tag="Rv3187"
+FT   CDS             join(3553087..3554025)
+FT                   /color=11
+FT                   /locus_tag="Rv3187"
+FT                   /function="INVOLVED IN THE TRANSPOSITION OF THE INSERTION
+FT                   SEQUENCE IS6110."
+FT                   /note="Rv3187, (MTV014.31), len: 312 aa. Probable IS6110
+FT                   transposase."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="PROBABLE TRANSPOSASE"
+FT                   /protein_id="CAA16652.1"
+FT                   /db_xref="GI:2827597"
+FT                   /db_xref="GOA:P0C5G8"
+FT                   /db_xref="InterPro:IPR001584"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P0C5G8"
+FT                   /translation="LITRFIADHQGHREGPDGLRWGVESICTQLTELGVPIAPSTYYDH
+FT                   INREPSRRELRDGELKEHISRVHAANYGVYGARKVWLTLNREGIEVARCTVERLMTKLG
+FT                   LSGTTRGKARRTTIADPATARPADLVQRRFGPPAPNRLWVADLTYVSTWAGFAYVAFVT
+FT                   DAYARRILGWRVASTMATSMVLDAIEQAIWTRQQEGVLDLKDVIHHTDRGSQYTSIRFS
+FT                   ERLAEAGIQPSVGAVGSSYDNALAETINGLYKTELIKPGKPWRSIEDVELATARWVDWF
+FT                   NHRRLYQYCGDVPPVELEAAYYAQRQRPAAG"
+FT   repeat_region   complement(join(3554040..3554067))
+FT                   /note="28 bp inverted repeat at right end of IS6110,
+FT                   TGAACCGCCCCGGTGAGTCCGGAGACTC"
+FT   repeat_region   join(3710382..3711736)
+FT                   /note="IS6110-14, len: 1355 bp. Insertion sequence
+FT                   IS6110."
+FT                   /mobile_element="insertion sequence:IS6110-14"
+FT   repeat_region   join(3710382..3710409)
+FT                   /note="28 bp inverted repeat at left end of IS6110,
+FT                   TGAACCGCCCCGGCATGTCCGGAGACTC"
+FT   gene            join(3710433..3710759)
+FT                   /locus_tag="Rv3325"
+FT   CDS             join(3710433..3710759)
+FT                   /color=11
+FT                   /locus_tag="Rv3325"
+FT                   /function="INVOLVED IN THE TRANSPOSITION OF THE INSERTION
+FT                   SEQUENCE ELEMENT IS6110."
+FT                   /note="Rv3325, (MTV016.25), len: 108 aa. Probable
+FT                   transposase for insertion element IS6110. BELONGS TO THE
+FT                   TRANSPOSASE FAMILY 8. TBparse score is 0.928."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="PROBABLE TRANSPOSASE"
+FT                   /protein_id="CAA17097.1"
+FT                   /db_xref="GI:2894235"
+FT                   /db_xref="GOA:P0C5G9"
+FT                   /db_xref="InterPro:IPR002514"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P0C5G9"
+FT                   /translation="MSGGSSRRYPPELRERAVRMVAEIRGQHDSEWAAISEVARLLGVG
+FT                   CAETVRKWVRQAQVDAGARPGTTTEESAELKRLRRDNAELRRANAILKTASAFFAAELD
+FT                   RPAR"
+FT   gene            join(3710756..3711694)
+FT                   /locus_tag="Rv3326"
+FT   CDS             join(3710756..3711694)
+FT                   /color=11
+FT                   /locus_tag="Rv3326"
+FT                   /function="INVOLVED IN THE TRANSPOSITION OF THE INSERTION
+FT                   SEQUENCE ELEMENT IS6110."
+FT                   /note="Rv3326, (MTV016.26), len: 312 aa. Probable
+FT                   transposase for insertion element IS6110. TBparse score is
+FT                   0.926."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="PROBABLE TRANSPOSASE"
+FT                   /protein_id="CAA17098.1"
+FT                   /db_xref="GI:2894236"
+FT                   /db_xref="GOA:P0C5G8"
+FT                   /db_xref="InterPro:IPR001584"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P0C5G8"
+FT                   /translation="LITRFIADHQGHREGPDGLRWGVESICTQLTELGVPIAPSTYYDH
+FT                   INREPSRRELRDGELKEHISRVHAANYGVYGARKVWLTLNREGIEVARCTVERLMTKLG
+FT                   LSGTTRGKARRTTIADPATARPADLVQRRFGPPAPNRLWVADLTYVSTWAGFAYVAFVT
+FT                   DAYARRILGWRVASTMATSMVLDAIEQAIWTRQQEGVLDLKDVIHHTDRGSQYTSIRFS
+FT                   ERLAEAGIQPSVGAVGSSYDNALAETINGLYKTELIKPGKPWRSIEDVELATARWVDWF
+FT                   NHRRLYQYCGDVPPVELEAAYYAQRQRPAAG"
+FT   repeat_region   complement(join(3711709..3711736))
+FT                   /note="28 bp inverted repeat at right end of IS6110,
+FT                   TGAACCGCCCCGGTGAGTCCGGAGACTC"
+FT   repeat_region   join(3795058..3796412)
+FT                   /note="IS6110-15, len: 1355 bp. Insertion sequence
+FT                   IS6110."
+FT                   /mobile_element="insertion sequence:IS6110-15"
+FT   repeat_region   join(3795058..3795085)
+FT                   /note="28 bp inverted repeat at the left end of IS6110,
+FT                   TGAACCGCCCCGGTGAGTCCGGAGACTC"
+FT   gene            complement(join(3795100..3795984))
+FT                   /locus_tag="Rv3380c"
+FT   CDS             complement(join(3795100..3795984))
+FT                   /color=11
+FT                   /locus_tag="Rv3380c"
+FT                   /function="INVOLVED IN THE TRANSPOSITION OF THE INSERTION
+FT                   SEQUENCE IS6110."
+FT                   /note="Rv3380c, (MTV004.38c), len: 294 aa. Probable
+FT                   transposase (IS6110 ORF II), identical to many. May be
+FT                   expressed by frameshifting from the upstream ORF
+FT                   MTV004.39c."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="PROBABLE TRANSPOSASE"
+FT                   /protein_id="CAA15765.1"
+FT                   /db_xref="GI:2661659"
+FT                   /db_xref="GOA:P0C5G8"
+FT                   /db_xref="InterPro:IPR001584"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P0C5G8"
+FT                   /translation="MRWGVESICTQLTELGVPIAPSTYYDHINREPSRRELRDGELKEH
+FT                   ISRVHAANYGVYGARKVWLTLNREGIEVARCTVERLMTKLGLSGTTRGKARRTTIADPA
+FT                   TARPADLVQRRFGPPAPNRLWVADLTYVSTWAGFAYVAFVTDAYARRILGWRVASTMAT
+FT                   SMVLDAIEQAIWTRQQEGVLDLKDVIHHTDRGSQYTSIRFSERLAEAGIQPSVGAVGSS
+FT                   YDNALAETINGLYKTELIKPGKPWRSIEDVELATARWVDWFNHRRLYQYCGDVPPVELE
+FT                   AAYYAQRQRPAAG"
+FT   gene            complement(join(3796035..3796361))
+FT                   /locus_tag="Rv3381c"
+FT   CDS             complement(join(3796035..3796361))
+FT                   /color=11
+FT                   /locus_tag="Rv3381c"
+FT                   /function="INVOLVED IN THE TRANSPOSITION OF THE INSERTION
+FT                   SEQUENCE IS6110."
+FT                   /note="Rv3381c, (MTV004.39c), len: 108 aa. Probable
+FT                   transposase (IS6110 ORF I), identical to many."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="PROBABLE TRANSPOSASE"
+FT                   /protein_id="CAA15766.1"
+FT                   /db_xref="GI:2661660"
+FT                   /db_xref="GOA:P0C5G9"
+FT                   /db_xref="InterPro:IPR002514"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P0C5G9"
+FT                   /translation="MSGGSSRRYPPELRERAVRMVAEIRGQHDSEWAAISEVARLLGVG
+FT                   CAETVRKWVRQAQVDAGARPGTTTEESAELKRLRRDNAELRRANAILKTASAFFAAELD
+FT                   RPAR"
+FT   repeat_region   complement(join(3796385..3796412))
+FT                   /note="28 bp inverted repeat at the right end of IS6110,
+FT                   TGAACCGCCCCGGCATGTCCGGAGACTC"
+FT   repeat_region   join(3890779..3892133)
+FT                   /note="IS6110-16, len: 1355 bp. Insertion sequence
+FT                   IS6110."
+FT                   /mobile_element="insertion sequence:IS6110-16"
+FT   repeat_region   join(3890779..3890806)
+FT                   /note="28 bp inverted repeat at left end of IS6110
+FT                   :TGAACCGCCCCGGCATGTCCGGAGACTC"
+FT   gene            join(3890830..3891156)
+FT                   /locus_tag="Rv3474"
+FT   CDS             join(3890830..3891156)
+FT                   /color=11
+FT                   /locus_tag="Rv3474"
+FT                   /function="INVOLVED IN THE TRANSPOSITION OF THE INSERTION
+FT                   SEQUENCE IS6110."
+FT                   /note="Rv3474, (MTCY13E12.27), len: 108 aa. Possible
+FT                   transposase (first part), probably frameshifts (-1) with
+FT                   MTCY13E12.28|Rv3475 to make full length product. Identical
+FT                   to Q50686|YIA4_MYCTU INSERTION ELEMENT IS6110 HYPOTHETICAL
+FT                   12.0 kDa PROTEIN (108 aa). BELONGS TO THE TRANSPOSASE
+FT                   FAMILY 8."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="POSSIBLE TRANSPOSASE FOR INSERTION ELEMENT
+FT                   IS6110 [FIRST PART]"
+FT                   /protein_id="CAB08698.1"
+FT                   /db_xref="GI:2104397"
+FT                   /db_xref="GOA:P0C5G9"
+FT                   /db_xref="InterPro:IPR002514"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P0C5G9"
+FT                   /translation="MSGGSSRRYPPELRERAVRMVAEIRGQHDSEWAAISEVARLLGVG
+FT                   CAETVRKWVRQAQVDAGARPGTTTEESAELKRLRRDNAELRRANAILKTASAFFAAELD
+FT                   RPAR"
+FT   gene            join(3891051..3892091)
+FT                   /locus_tag="Rv3475"
+FT   CDS             join(3891051..3892091)
+FT                   /color=11
+FT                   /locus_tag="Rv3475"
+FT                   /function="INVOLVED IN THE TRANSPOSITION OF THE INSERTION
+FT                   SEQUENCE IS6110."
+FT                   /note="Rv3475, (MTCY13E12.28), len: 346 aa. Possible
+FT                   IS6110 transposase (second part), probably made by a
+FT                   frameshift (-1) with MTCY13E12.27|Rv3474. Identical to
+FT                   P19774|TRA9_MYCTU PUTATIVE TRANSPOSASE FOR INSERTION
+FT                   SEQUENCE ELEMENT IS986/IS6110 (278 aa)."
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /product="POSSIBLE TRANSPOSASE FOR INSERTION ELEMENT
+FT                   IS6110 [SECOND PART]"
+FT                   /protein_id="CAB08699.1"
+FT                   /db_xref="GI:2104398"
+FT                   /db_xref="GOA:P0C5G8"
+FT                   /db_xref="InterPro:IPR001584"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P0C5G8"
+FT                   /translation="AEALAAGQRRIAKGERDFKDRVGFLRGRARPASTLITRFIADHQG
+FT                   HREGPDGLRWGVESICTQLTELGVPIAPSTYYDHINREPSRRELRDGELKEHISRVHAA
+FT                   NYGVYGARKVWLTLNREGIEVARCTVERLMTKLGLSGTTRGKARRTTIADPATARPADL
+FT                   VQRRFGPPAPNRLWVADLTYVSTWAGFAYVAFVTDAYARRILGWRVASTMATSMVLDAI
+FT                   EQAIWTRQQEGVLDLKDVIHHTDRGSQYTSIRFSERLAEAGIQPSVGAVGSSYDNALAE
+FT                   TINGLYKTELIKPGKPWRSIEDVELATARWVDWFNHRRLYQYCGDVPPVELEAAYYAQR
+FT                   QRPAAG"
+FT   repeat_region   complement(join(3892106..3892133))
+FT                   /note="28 bp inverted repeat at right end of IS6110
+FT                   :TGAACCGCCCCGGTGAGTCCGGAGACTC"
+FT   misc_feature    join(3935400..3935474)
+FT                   /gene="PE_PGRS54"
+FT                   /locus_tag="Rv3508"
+FT                   /note="PS00583 pfkB family of carbohydrate kinases
+FT                   signature 1."
+FT   misc_feature    join(3936015..3936089)
+FT                   /gene="PE_PGRS54"
+FT                   /locus_tag="Rv3508"
+FT                   /note="PS00583 pfkB family of carbohydrate kinases
+FT                   signature 1."
+FT   misc_feature    join(3947423..3947494)
+FT                   /gene="PE_PGRS57"
+FT                   /locus_tag="Rv3514"
+FT                   /note="PS00583 pfkB family of carbohydrate kinases
+FT                   signature 1."
+FT   misc_feature    join(3947774..3947845)
+FT                   /gene="PE_PGRS57"
+FT                   /locus_tag="Rv3514"
+FT                   /note="PS00583 pfkB family of carbohydrate kinases
+FT                   signature 1."
