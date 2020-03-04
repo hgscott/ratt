@@ -13,10 +13,10 @@ ref=$5
 # echo "At Sanger for tcsh setenv RATT_HOME /nfs/users/nfs_t/tdo/Bin/"
 
 # echo "I will use the sanger default!"
-RATT_HOME=/c/Users/hscott/Documents/FELIX/RATT/RATT_ataggart; export RATT_HOME
+RATT_HOME=RATT/RATT_v1; export RATT_HOME
 #fi;
 
-PAGIT_HOME=/c/Users/hscott/Documents/FELIX/RATT;
+PAGIT_HOME=RATT/;
 
 NUCMER_PATH=$PAGIT_HOME/mummer-4.0.0beta2/tests;
 ## check the entrance
